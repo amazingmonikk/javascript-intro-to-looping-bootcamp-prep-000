@@ -23,9 +23,8 @@ function whileLoop(number) {
 
 
 function doWhileLoop(integer) {
-
-do { 
    var i = 0;
+do { 
    i = i + 1;
    console.log("I run once regardless.");
 } while
